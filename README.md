@@ -113,34 +113,34 @@ func makeLikeCount(base:HeredityModel) {
 ### 成果展示 `基准  DNA 我是画了一条45°的直线`
 * 按 DNA 相似计算
   
-![1_14048.png](https://upload-images.jianshu.io/upload_images/2068935-7c110e3342826914.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)___   
-![21_17049.png](https://upload-images.jianshu.io/upload_images/2068935-ca2345f5703d6594.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)__
+![1_14048.png](https://upload-images.jianshu.io/upload_images/2068935-7c110e3342826914.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_   
+![21_17049.png](https://upload-images.jianshu.io/upload_images/2068935-ca2345f5703d6594.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
 ![52_18034.png](https://upload-images.jianshu.io/upload_images/2068935-ed1e80cdc3d54796.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
-![94_18504.png](https://upload-images.jianshu.io/upload_images/2068935-a139e9422a428a14.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
-![195_19003.png](https://upload-images.jianshu.io/upload_images/2068935-456077b2c8aabb11.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![601_19500.png](https://upload-images.jianshu.io/upload_images/2068935-cffe152141697fdf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![1201_19691.png](https://upload-images.jianshu.io/upload_images/2068935-7ec18d8e50f9cac6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![2412_19817.png](https://upload-images.jianshu.io/upload_images/2068935-2cf4645e88015e32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![4883_19874.png](https://upload-images.jianshu.io/upload_images/2068935-91f2f5a7cdb8d4f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![9897_19923.png](https://upload-images.jianshu.io/upload_images/2068935-ff7f759ad833675f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![20120_19961.png](https://upload-images.jianshu.io/upload_images/2068935-0b6eb8118938cf48.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![46420_19990.png](https://upload-images.jianshu.io/upload_images/2068935-2f57689fe37306e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![94_18504.png](https://upload-images.jianshu.io/upload_images/2068935-a139e9422a428a14.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![195_19003.png](https://upload-images.jianshu.io/upload_images/2068935-456077b2c8aabb11.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![601_19500.png](https://upload-images.jianshu.io/upload_images/2068935-cffe152141697fdf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![1201_19691.png](https://upload-images.jianshu.io/upload_images/2068935-7ec18d8e50f9cac6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![2412_19817.png](https://upload-images.jianshu.io/upload_images/2068935-2cf4645e88015e32.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![4883_19874.png](https://upload-images.jianshu.io/upload_images/2068935-91f2f5a7cdb8d4f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![9897_19923.png](https://upload-images.jianshu.io/upload_images/2068935-ff7f759ad833675f.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![20120_19961.png](https://upload-images.jianshu.io/upload_images/2068935-0b6eb8118938cf48.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![46420_19990.png](https://upload-images.jianshu.io/upload_images/2068935-2f57689fe37306e8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
 ![98239_20000.png](https://upload-images.jianshu.io/upload_images/2068935-62fcda6615623111.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 经过 `98239` 代繁育 , 终于进化出`完美的 DNA`
 
 * 按 DNA 相同计算
 
-![1_1.png](https://upload-images.jianshu.io/upload_images/2068935-d79d7836e641ede2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![1351_10.png](https://upload-images.jianshu.io/upload_images/2068935-4c00eca18f1f9766.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![3159_20.png](https://upload-images.jianshu.io/upload_images/2068935-b3e9d8c581f5d7a5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![6136_30.png](https://upload-images.jianshu.io/upload_images/2068935-c5a573690aba8833.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![9772_40.png](https://upload-images.jianshu.io/upload_images/2068935-57f3017c7ed6e211.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![14562_50.png](https://upload-images.jianshu.io/upload_images/2068935-23cf206717ae8d05.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![19894_60.png](https://upload-images.jianshu.io/upload_images/2068935-efe9af6890281c68.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![28261_70.png](https://upload-images.jianshu.io/upload_images/2068935-1282a9b1b9d9f73e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![37614_80.png](https://upload-images.jianshu.io/upload_images/2068935-6847054a66a0d3f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![53301_90.png](https://upload-images.jianshu.io/upload_images/2068935-b32267335de31ccc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1_1.png](https://upload-images.jianshu.io/upload_images/2068935-d79d7836e641ede2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![1351_10.png](https://upload-images.jianshu.io/upload_images/2068935-4c00eca18f1f9766.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![3159_20.png](https://upload-images.jianshu.io/upload_images/2068935-b3e9d8c581f5d7a5.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![6136_30.png](https://upload-images.jianshu.io/upload_images/2068935-c5a573690aba8833.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![9772_40.png](https://upload-images.jianshu.io/upload_images/2068935-57f3017c7ed6e211.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![14562_50.png](https://upload-images.jianshu.io/upload_images/2068935-23cf206717ae8d05.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![19894_60.png](https://upload-images.jianshu.io/upload_images/2068935-efe9af6890281c68.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![28261_70.png](https://upload-images.jianshu.io/upload_images/2068935-1282a9b1b9d9f73e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![37614_80.png](https://upload-images.jianshu.io/upload_images/2068935-6847054a66a0d3f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![53301_90.png](https://upload-images.jianshu.io/upload_images/2068935-b32267335de31ccc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
 ![85555_99.png](https://upload-images.jianshu.io/upload_images/2068935-1a011db990a9b9fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 总共繁衍了 `100000` 代 , 在 `85555` 代的时候已经繁衍出相同数 `99` 的物种了 ,最终也没有进化出完美的 , 并不是说这种进化不出 , 只是运气问题而已
