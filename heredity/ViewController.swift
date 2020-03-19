@@ -95,6 +95,7 @@ class ViewController: NSViewController {
         let imgData = offscreenRep?.representation(using: .png, properties: [:]);
         
         do {
+#warning("此处需要自己找个文件夹用来输出")
             try imgData?.write(to: URL(fileURLWithPath: "/Users/imac-03/Desktop/MacCode/heredity/images/\(times)_\(model.likeCount).png"));
         } catch {
             print(error);
