@@ -113,10 +113,10 @@ func makeLikeCount(base:HeredityModel) {
 ### 成果展示 `基准  DNA 我是画了一条45°的直线`
 * 按 DNA 相似计算
   
-![1_14048.png](https://upload-images.jianshu.io/upload_images/2068935-7c110e3342826914.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![21_17049.png](https://upload-images.jianshu.io/upload_images/2068935-ca2345f5703d6594.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![52_18034.png](https://upload-images.jianshu.io/upload_images/2068935-ed1e80cdc3d54796.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-![94_18504.png](https://upload-images.jianshu.io/upload_images/2068935-a139e9422a428a14.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![1_14048.png](https://upload-images.jianshu.io/upload_images/2068935-7c110e3342826914.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)___   
+![21_17049.png](https://upload-images.jianshu.io/upload_images/2068935-ca2345f5703d6594.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)__
+![52_18034.png](https://upload-images.jianshu.io/upload_images/2068935-ed1e80cdc3d54796.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)_
+![94_18504.png](https://upload-images.jianshu.io/upload_images/2068935-a139e9422a428a14.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) 
 ![195_19003.png](https://upload-images.jianshu.io/upload_images/2068935-456077b2c8aabb11.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![601_19500.png](https://upload-images.jianshu.io/upload_images/2068935-cffe152141697fdf.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![1201_19691.png](https://upload-images.jianshu.io/upload_images/2068935-7ec18d8e50f9cac6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
